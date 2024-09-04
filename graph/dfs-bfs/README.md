@@ -7,5 +7,6 @@ Problems links:
 6. https://www.geeksforgeeks.org/problems/topological-sort/1
 7. https://www.geeksforgeeks.org/problems/topological-sort/1
 8. https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+9. https://leetcode.com/problems/number-of-provinces/
 
 
